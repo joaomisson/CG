@@ -3,6 +3,7 @@
 ## Projeto 1 da disciplina de Computação Gráfica.
 
 João Antônio Missom Milhorim - 11834331
+
 Reynaldo Coronatto Neto - 12547594
 
 ## Requisitos
