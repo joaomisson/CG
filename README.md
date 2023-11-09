@@ -7,13 +7,13 @@ Reynaldo Coronatto Neto - 12547594
 
 ## Requisitos
 
-Para executar a aplicação, utilizamos o Jupyter Notebook pelo pacote Anaconda, utilizando a versão do Python 3.8.10
+Para executar a aplicação, utilizamos o Jupyter Notebook pelo pacote Anaconda, utilizando a versão do Python 3.8.10.
 
 ## Instalação
 
-Descreva os passos necessários para instalar o projeto. Forneça exemplos de código ou comandos para ajudar os usuários a começar.
+Além da linguagem Python, é necessário ter instaladas as bibliotecas *os, glfw, glm, PyOpenGL, numpy, math* e *Pillow*.
+Algumas destas bibliotecas já são padrão do Python, mas outras requerem instalação, podendo ser instaladas com:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
-npm install  # ou outro gerenciador de pacotes
+pip install PyGLM
+pip install glfw
