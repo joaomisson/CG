@@ -22,7 +22,7 @@ conda activate [Env name]
 Por fim faça a instalação das bibliotecas necessárias rodando o seguinte comando:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Execução
